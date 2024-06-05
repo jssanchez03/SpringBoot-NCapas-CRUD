@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Jair
+Build-Jdk: 17.0.11
+Implementation-Title: RegistroPersona
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ec.edu.espe.registroPersona
+Main-Class: ec.edu.espe.registroPersona.RegistroPersonaApplication
+
